@@ -1,5 +1,5 @@
 
-#Covid19 Face Mask Detection<br>
+<h1>Covid19 Face Mask Detection</h1><br>
 
 The following are the details of the Project for building a model for detecting face with a mask and without a face mask.<br>
 1. first the webcam captures the images/video frames of the face.
