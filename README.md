@@ -1,12 +1,13 @@
-##Covid19 Face Mask Detection
 
-The following are the details of the Project for building a model for detecting face with a mask and without a face mask.
-1.first the webcam captures the images/video frames of the face.
+#Covid19 Face Mask Detection<br>
+
+The following are the details of the Project for building a model for detecting face with a mask and without a face mask.<br>
+1. first the webcam captures the images/video frames of the face.
 2. then it is passed to a cascade classifier 
-3.the cascade classifier gives the region of interest(ROI) it gives X, Y, Width, and Height of the face with marks the region of interest
-4.the ROI is then resized into a 100 by 100 image 
+3. the cascade classifier gives the region of interest(ROI) it gives X, Y, Width, and Height of the face with marks the region of interest
+4. the ROI is then resized into a 100 by 100 image 
 5. then it is passed through a pre-trained convolutional neural network (CNN)
-6.the CNN will give the probabilities with mask and without mas 
+6. the CNN will give the probabilities with mask and without mask 
 
 
 in this Project i am going to use a data set originally created by [Prajna Bhandary](https://www.linkedin.com/in/prajna-bhandary-0b03a416a/)
