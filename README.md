@@ -1,4 +1,5 @@
-#Covid19 Face Mask Detection
+##Covid19 Face Mask Detection
+
 The following are the details of the Project for building a model for detecting face with a mask and without a face mask.
 1.first the webcam captures the images/video frames of the face.
 2. then it is passed to a cascade classifier 
@@ -8,7 +9,7 @@ The following are the details of the Project for building a model for detecting 
 6.the CNN will give the probabilities with mask and without mas 
 
 
-## in this Project i am going to use a data set originally created by @Prajna Bhandary [a link](https://www.linkedin.com/in/prajna-bhandary-0b03a416a/)
+in this Project i am going to use a data set originally created by [Prajna Bhandary](https://www.linkedin.com/in/prajna-bhandary-0b03a416a/)
 
 
 <p style="text-align:right">
